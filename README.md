@@ -95,7 +95,9 @@ A full-stack ML application with:
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/MrAkash
+- GitHub:
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrAkash)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashkadam7019/)
 
 ---
