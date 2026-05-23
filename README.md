@@ -59,9 +59,37 @@ I enjoy solving real engineering problems and continuously improving my developm
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Project
 
-### 🏠 End-to-End House Price Prediction System
+## 🎭 Deepfake Detection Using Deep Learning
+A deep learning project for detecting fake videos/images using CNN models and facial feature extraction.
+
+### Features
+- Face detection
+- Deepfake classification
+- CNN-based prediction
+- Video frame analysis
+
+### Tech Used
+`Python` `TensorFlow` `OpenCV` `CNN`
+
+---
+
+## 📉 Customer Churn Prediction System
+An end-to-end ML project that predicts customer churn using machine learning algorithms and data analysis.
+
+### Features
+- Data preprocessing
+- Feature engineering
+- Churn prediction
+- Model evaluation
+
+### Tech Used
+`Python` `Scikit-learn` `Pandas` `Machine Learning`
+
+---
+
+##🏠 End-to-End House Price Prediction System
 
 A full-stack ML application with:
 - FastAPI backend
