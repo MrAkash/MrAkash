@@ -89,7 +89,7 @@ An end-to-end ML project that predicts customer churn using machine learning alg
 
 ---
 
-##🏠 End-to-End House Price Prediction System
+## 🏠 End-to-End House Price Prediction System
 
 A full-stack ML application with:
 - FastAPI backend
