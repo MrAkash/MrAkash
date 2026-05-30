@@ -75,17 +75,21 @@ A deep learning project for detecting fake videos/images using CNN models and fa
 
 ---
 
-## 📉 Customer Churn Prediction System
-An end-to-end ML project that predicts customer churn using machine learning algorithms and data analysis.
+## 🚀End-to-End MLOps Pipeline for Real-Time Streaming Inference
+Architected an automated MLOps framework deploying Dockerized FastAPI endpoints on Render cloud infrastructure, achieving sub-100ms inference latency for continuous data streams.• Built an end-to-end MLOps workflow including data preprocessing, model training, containerization, and clouddeployment on Render.
 
 ### Features
-- Data preprocessing
-- Feature engineering
-- Churn prediction
-- Model evaluation
+✅ Real-Time Streaming Inference
+✅ Event-Driven Architecture
+✅ Cloud Kafka Integration
+✅ Producer-Consumer Pattern
+✅ Dockerized Deployment
+✅ Live Prediction Updates
+✅ Scalable ML Pipeline
+✅ REST API Integration
 
 ### Tech Used
-`Python` `Scikit-learn` `Pandas` `Machine Learning`
+`Apache Kafka` `Python` `FastAI` `Scikit-learn` `Docker` `Machine Learning` `Render`
 
 ---
 
